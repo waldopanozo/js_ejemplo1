@@ -26,6 +26,8 @@ y con eso ya podemos usar cualquier js que este previamente creado
 
 ## Tipos de datos
 
+los tipos de datos por defecto en javascript no son tipados, pro lo tanto no es obligatorio poner el tipod e dato
+
 string, number, object
 
 en el caso de objeto 
@@ -37,3 +39,15 @@ en el caso de objeto
     }
 
 si lo imprimes se ve en fomato JSON
+
+
+## TypeOf
+ 
+ para saber el tipod e dato que almacena la variable se usa
+
+    typeof variable
+
+en consola se puede ver el tipode  dato
+
+para definir variables se peude usar let,var o const
+

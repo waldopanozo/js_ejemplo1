@@ -2,6 +2,7 @@
 var nombre = "Waldo Panozo";
 
 console.log(nombre);
+console.log(typeof nombre);
 
 /**
  * otro tipo de comentarios
@@ -10,6 +11,7 @@ console.log(nombre);
 //tipo nuemrico - numeric
 var numero = 345;
 console.log(numero);
+console.log(typeof numero);
 
 //tipo objeto
 var objecto = {
@@ -19,3 +21,4 @@ var objecto = {
 }
 
 console.log(objecto);
+console.log(typeof objecto);
