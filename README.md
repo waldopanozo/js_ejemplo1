@@ -1,5 +1,5 @@
 # js_ejemplo1
-
+(Recomendable: habilitar auto save en code)
 # Parte 1
 ## un simple hola
 
@@ -24,4 +24,16 @@ y seleccionamos
 y con eso ya podemos usar cualquier js que este previamente creado
 
 
+## Tipos de datos
 
+string, number, object
+
+en el caso de objeto 
+
+    var objecto = {
+        nombre_nuevo:"Wal",
+        apellido:"Panozo",
+        whatsapp:"+59177499919",
+    }
+
+si lo imprimes se ve en fomato JSON
