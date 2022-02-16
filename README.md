@@ -53,3 +53,18 @@ para definir variables se peude usar let,var o const
 
 
 *esto genera conflicto... (solo es una prueba con vscode) Eliminar*
+## Mas tipos de datos
+
+tipos de datos booleanos
+
+las funciones tambine son tipos de datos en javascript
+
+tipo de dato symbol es un poco avanzado
+
+tipo clase tambien es una funcion en concepto y con quokka se ve ocmouna funcion
+
+tipo de dato undefined es cuando declaras una variable sin inicializar
+
+tipo nula o null que seria un tipo de dato object
+
+*definitivamente genero un conflicto (Eliminar luego)*
