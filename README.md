@@ -65,6 +65,7 @@ tipo de dato undefined es cuando declaras una variable sin inicializar
 
 tipo nula o null que seria un tipo de dato object
 
+*definitivamente genero un conflicto (Eliminar luego)*
 
 
 
