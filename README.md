@@ -52,3 +52,4 @@ en consola se puede ver el tipode  dato
 para definir variables se peude usar let,var o const
 
 
+*esto genera conflicto... (solo es una prueba con vscode) Eliminar*
