@@ -51,8 +51,6 @@ en consola se puede ver el tipode  dato
 
 para definir variables se peude usar let,var o const
 
-
-*esto genera conflicto... (solo es una prueba con vscode) Eliminar*
 ## Mas tipos de datos
 
 tipos de datos booleanos
@@ -66,5 +64,3 @@ tipo clase tambien es una funcion en concepto y con quokka se ve ocmouna funcion
 tipo de dato undefined es cuando declaras una variable sin inicializar
 
 tipo nula o null que seria un tipo de dato object
-
-*definitivamente genero un conflicto (Eliminar luego)*
