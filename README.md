@@ -51,3 +51,20 @@ en consola se puede ver el tipode  dato
 
 para definir variables se peude usar let,var o const
 
+## Mas tipos de datos
+
+tipos de datos booleanos
+
+las funciones tambine son tipos de datos en javascript
+
+tipo de dato symbol es un poco avanzado
+
+tipo clase tambien es una funcion en concepto y con quokka se ve ocmouna funcion
+
+tipo de dato undefined es cuando declaras una variable sin inicializar
+
+tipo nula o null que seria un tipo de dato object
+
+
+
+
